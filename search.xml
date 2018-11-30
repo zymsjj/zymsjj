@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[博客搭建2]]></title>
+    <url>%2F2018%2F11%2F30%2F%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA2%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>Hexo 博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[博客搭建]]></title>
+    <url>%2F2018%2F11%2F30%2F%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%2F</url>
+    <content type="text"><![CDATA[heihei@timeline{ 2016 @item{ 11月6日 为 Card theme 添加 page layout。 加快绿化空间好看 } @item{ 10月31日 本地化多说。 } @item{ 10月24日 为 Indigo 主题创建 Card 分支。 } 2015 @item{ 2月24日 发布 Indigo 主题到 hexo.io。 } @item{ 1月22日 创建 Indigo 主题。 } }]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>Hexo 博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F11%2F29%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
